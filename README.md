@@ -14,6 +14,7 @@ To work through these topics,
 * Matplotlib 
 * NumPy 
 * seaborn 
+
 were used for data anaylsis, as well as, 
 * Scikit-Learn 
 for machine learning and modelling tasks.
