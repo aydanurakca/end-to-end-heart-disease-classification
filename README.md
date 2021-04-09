@@ -1,7 +1,8 @@
 # end-to-end-heart-disease-classification
 
-This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification.
+This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification. K-Nearest Neighbor, Logistic Regression and Random Forest models were used and their results were compared. According to the results, Logistic Regression model performed with best accuracy on the heart disease dataset.
 
+#### Those topics were followed.
 * **Exploratory data analysis (EDA)** - the process of going through a dataset and finding out more about it.
 * **Model training** - create model(s) to learn to predict a target variable based on other variables.
 * **Model evaluation** - evaluating a models predictions using problem-specific evaluation metrics.
