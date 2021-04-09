@@ -1,5 +1,7 @@
 # end-to-end-heart-disease-classification
 
+This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification.
+
 * **Exploratory data analysis (EDA)** - the process of going through a dataset and finding out more about it.
 * **Model training** - create model(s) to learn to predict a target variable based on other variables.
 * **Model evaluation** - evaluating a models predictions using problem-specific evaluation metrics.
@@ -17,5 +19,6 @@ To work through these topics,
 
 were used for data anaylsis, as well as, 
 * Scikit-Learn 
+
 for machine learning and modelling tasks.
 
